@@ -47,8 +47,8 @@ void teste_comparacao_strings(void){
 	printf("\n\n\nIniciando Teste de COMPARACAO DE STRINGS, em C++");
 	int tempo;
 	tempo = clock();
-	char teste1[37] = "este é um exemplo de string simples";
-	char teste2[39] = "esta é uma forma de testar as strings";
+	char teste1[37] = "este Ã© um exemplo de string simples";
+	char teste2[39] = "esta Ã© uma forma de testar as strings";
 	char teste3[4] = "esta";
 	char teste4[6] = "string";
 	int i, j, k, z=0;
